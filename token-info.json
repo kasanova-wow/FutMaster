@@ -1,0 +1,10 @@
+{
+  "name": "FutMaster",
+  "symbol": "FMR",
+  "decimals": 9,
+  "supply": 70000000,
+  "mintAddress": "4fm3dD4vqivXhq7RiPGgRRKSmgsNf21CQZ33w7MviNY9",
+  "blockchain": "Solana",
+  "website": "https://futmaster.io",
+  "whitepaper": "https://futmaster.io/whitepaper.php"
+}
